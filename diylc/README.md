@@ -1,1 +1,1 @@
-Stripbaord files - DIY Layout Creator
+Stripboard files - DIY Layout Creator
